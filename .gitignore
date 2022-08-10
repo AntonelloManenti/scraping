@@ -1,5 +1,8 @@
 /ingest*
 /staging_area*
+/merge_area*
 /dwh*
 *.gslides
 *.gsheet
+*.csv
+*.xlsx
