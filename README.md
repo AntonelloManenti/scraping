@@ -5,7 +5,9 @@ Code for web scraping using Selenium and Python
 
 ### Notebook
 Scraping data from LinkedIn profiles
+
 [![Open in Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAP7QgJMrYM7QobOzETUpE0hHwBpKDnq?usp=sharing)
+
 Il codice è aggiornato al 10/08/2022 e commentato passo passo in italiano.
 
 ---
