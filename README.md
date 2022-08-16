@@ -8,10 +8,10 @@ Scraping data from LinkedIn profiles
 
 [![Open in Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAP7QgJMrYM7QobOzETUpE0hHwBpKDnq?usp=sharing)
 
-16/08/2022 -  notebook aggiornato per le sezioni Education e Certifications.
-10/08/2022 - notebook commentato passo passo in italiano creato.
+16/08/2022 - notebook updated for the Education and Certifications sections. `IT` notebook aggiornato per le sezioni Education e Certifications.
 
-Il codice è aggiornato al 10/08/2022 e commentato passo passo in italiano.
+10/08/2022 - notebook with commentary step by step in Italian created. `IT` notebook commentato passo passo in italiano.
+
 
 ---
 
